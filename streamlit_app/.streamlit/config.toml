@@ -1,0 +1,16 @@
+[theme]
+primaryColor="#2ecc71"
+backgroundColor="#e8f5e9"
+secondaryBackgroundColor="#ffffff"
+textColor="#2f4f4f"
+ 
+
+[theme.alertColor]
+warning = "#E74C3C"  # A red for warning messages (stroke risk), keeping user focus
+success = "#2ECC71"  # Matching the primary color for successful outcomes
+info = "#3498DB"  # Blue for informative messages
+
+# Button Styles
+[theme.button]
+primaryButtonColor = "#27AE60"  # A slightly deeper green for buttons
+secondaryButtonColor = "#1ABC9C"  # Complementary teal for secondary actions
